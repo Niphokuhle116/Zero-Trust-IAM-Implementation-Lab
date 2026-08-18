@@ -31,3 +31,34 @@ Created the Meridian security groups for all department <br/>
 <p align="center">
   <br>Created a break-glass emergency access account to provide a secure recovery path into the environment in the event that a Conditional Access policy inadvertently locks out administrators or users.<br/> 
  <img src="https://imgur.com/kAPsZLB.png" height="75%" width="75%" alt="Break-glass">
+
+
+ <p align="center">
+ Implementing Conditional Access Policy<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🔐 CA001
+**Require MFA for All Users**
+
+</td>
+<td align="center" width="33%">
+
+### 🛡️ CA002
+**Block Legacy Authentication**
+
+</td>
+<td align="center" width="33%">
+
+### 💻 CA003
+**Require Compliant Device**
+
+</td>
+</tr>
+</table>
+
+</div>
