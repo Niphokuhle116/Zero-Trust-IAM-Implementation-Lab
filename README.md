@@ -26,3 +26,8 @@ I'll redesign meridian's access model around zero trust Framework "Never Trust, 
 <p align="center">
 Created the Meridian security groups for all department <br/>
   <img src="https://imgur.com/yt5md4X.png" height="75%" width="75%" alt="Security Groups">
+  
+
+<p align="center">
+  <br>Created a break-glass emergency access account to provide a secure recovery path into the environment in the event that a Conditional Access policy inadvertently locks out administrators or users.<br/> 
+ <img src="https://imgur.com/kAPsZLB.png" height="75%" width="75%" alt="Break-glass">
