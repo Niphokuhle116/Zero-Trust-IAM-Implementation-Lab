@@ -23,4 +23,6 @@ I'll redesign meridian's access model around zero trust Framework "Never Trust, 
   <img src="https://imgur.com/qn771fJ.png" width="65%" alt="Creating users">
 </p>
 
-  <img src="YOUR-THIRD-IMAGE-URL" width="35%" alt="Creating Users">
+<p align="center">
+Created the Meridian security groups for all department <br/>
+  <img src="https://imgur.com/yt5md4X.png" height="75%" width="75%" alt="Security Groups">
