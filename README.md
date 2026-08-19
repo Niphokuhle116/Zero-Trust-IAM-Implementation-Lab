@@ -30,10 +30,27 @@ Created the Meridian security groups for all department <br/>
 
 <p align="center">
   <br>Created a break-glass emergency access account to provide a secure recovery path into the environment in the event that a Conditional Access policy inadvertently locks out administrators or users.<br/> 
- <img src="https://imgur.com/kAPsZLB.png" height="75%" width="75%" alt="Break-glass">
+ <img src="https://imgur.com/kAPsZLB.png" height="75%" width="75%" alt="Break-glass"/>
 
 
- <p align="center">
+
+  <div align="center">
+
+> ## 🔴 Break-Glass Account
+>
+> **☁️ Cloud-Only** — Not synchronized from on-premises Active Directory.  
+>
+> **🔑 Non-Expiring Password** — Password does not expire and MFA is not enrolled.  
+>
+> **👑 Global Administrator** — Role assigned directly, not through PIM.  
+>
+> **🚫 CA Exclusion** — Excluded from all Conditional Access policies.
+
+</div>
+ 
+
+<br><br> 
+<p align="center">
  Implementing Conditional Access Policy<br/>
 
 <div align="center">
